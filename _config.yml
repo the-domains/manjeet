@@ -14,4 +14,8 @@ layout_spectrum: 0.9194551368709654
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b25c3ca-0929-4ae9-bb44-a416b16bc88f.jpg
 name: Manjeet
+navigation:
+  - name: About
+    url: www.projectminds.com
+    type: external
 description: Test Tagline
